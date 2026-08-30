@@ -1,0 +1,2464 @@
+{
+  "banners": {
+    "beginners": [
+      {
+        "name": "Beginners' Wish",
+        "image": "1",
+        "shortName": "Beginners' Wish",
+        "start": "2000-01-01 00:00:00",
+        "end": "2200-01-01 00:00:00"
+      }
+    ],
+    "standard": [
+      {
+        "name": "Wanderlust Invocation",
+        "image": "1",
+        "shortName": "Wanderlust Invocation",
+        "start": "2000-01-01 00:00:00",
+        "end": "2200-01-01 00:00:00"
+      }
+    ],
+    "characters": [
+      {
+        "name": "Ballad in Goblets",
+        "image": "1",
+        "shortName": "Venti",
+        "start": "2020-09-28 00:00:00",
+        "end": "2020-10-18 18:00:00"
+      },
+      {
+        "name": "Sparkling Steps",
+        "image": "1",
+        "shortName": "Klee",
+        "start": "2020-10-20 18:00:00",
+        "end": "2020-11-10 16:00:00"
+      },
+      {
+        "name": "Farewell of Snezhnaya",
+        "image": "1",
+        "shortName": "Tartaglia",
+        "start": "2020-11-11 06:00:00",
+        "end": "2020-12-01 16:00:00"
+      },
+      {
+        "name": "Gentry of Hermitage",
+        "image": "1",
+        "shortName": "Zhongli",
+        "start": "2020-12-01 18:00:00",
+        "end": "2020-12-22 15:00:00"
+      },
+      {
+        "name": "Secretum Secretorum",
+        "image": "1",
+        "shortName": "Albedo",
+        "start": "2020-12-23 06:00:00",
+        "end": "2021-01-12 16:00:00"
+      },
+      {
+        "name": "Adrift in the Harbor",
+        "image": "1",
+        "shortName": "Ganyu",
+        "start": "2021-01-12 18:00:00",
+        "end": "2021-02-02 15:00:00"
+      },
+      {
+        "name": "Invitation to Mundane Life",
+        "image": "1",
+        "shortName": "Xiao",
+        "start": "2021-02-03 06:00:00",
+        "end": "2021-02-17 16:00:00"
+      },
+      {
+        "name": "Dance of Lanterns",
+        "image": "1",
+        "shortName": "Keqing",
+        "start": "2021-02-17 18:00:00",
+        "end": "2021-03-02 16:00:00"
+      },
+      {
+        "name": "Moment of Bloom",
+        "image": "1",
+        "shortName": "Hu Tao",
+        "start": "2021-03-02 18:00:00",
+        "end": "2021-03-16 15:00:00"
+      },
+      {
+        "name": "Ballad in Goblets",
+        "image": "2",
+        "shortName": "Venti",
+        "start": "2021-03-17 06:00:00",
+        "end": "2021-04-06 16:00:00"
+      },
+      {
+        "name": "Farewell of Snezhnaya",
+        "image": "2",
+        "shortName": "Tartaglia",
+        "start": "2021-04-06 18:00:00",
+        "end": "2021-04-27 15:00:00"
+      },
+      {
+        "name": "Gentry of Hermitage",
+        "image": "2",
+        "shortName": "Zhongli",
+        "start": "2021-04-28 06:00:00",
+        "end": "2021-05-18 17:59:59"
+      },
+      {
+        "name": "Born of Ocean Swell",
+        "image": "1",
+        "shortName": "Eula",
+        "start": "2021-05-18 18:00:00",
+        "end": "2021-06-08 15:00:00"
+      },
+      {
+        "name": "Sparkling Steps",
+        "image": "2",
+        "shortName": "Klee",
+        "start": "2021-06-09 06:00:00",
+        "end": "2021-06-29 17:59:59"
+      },
+      {
+        "name": "Leaves in the Wind",
+        "image": "1",
+        "shortName": "Kazuha",
+        "start": "2021-06-29 18:00:00",
+        "end": "2021-07-20 14:59:59"
+      },
+      {
+        "name": "The Herons Court",
+        "image": "1",
+        "shortName": "Ayaka",
+        "start": "2021-07-21 06:00:00",
+        "end": "2021-08-10 17:59:59"
+      },
+      {
+        "name": "Tapestry of Golden Flames",
+        "image": "1",
+        "shortName": "Yoimiya",
+        "start": "2021-08-10 18:00:00",
+        "end": "2021-08-31 14:59:59"
+      },
+      {
+        "name": "Reign of Serenity",
+        "image": "1",
+        "shortName": "Raiden",
+        "start": "2021-09-01 06:00:00",
+        "end": "2021-09-21 17:59:59"
+      },
+      {
+        "name": "Drifting Luminescence",
+        "image": "1",
+        "shortName": "Kokomi",
+        "start": "2021-09-21 18:00:00",
+        "end": "2021-10-12 14:59:59"
+      },
+      {
+        "name": "Farewell of Snezhnaya",
+        "image": "3",
+        "shortName": "Tartaglia",
+        "start": "2021-10-13 06:00:00",
+        "end": "2021-11-02 17:59:59"
+      },
+      {
+        "name": "Moment of Bloom",
+        "image": "2",
+        "shortName": "Hu Tao",
+        "start": "2021-11-02 18:00:00",
+        "end": "2021-11-23 14:59:59"
+      },
+      {
+        "name": "Secretum Secretorum",
+        "image": "2",
+        "shortName": "Albedo",
+        "start": "2021-11-24 06:00:00",
+        "end": "2021-12-14 17:59:59"
+      },
+      {
+        "name": "Oni's Royale",
+        "image": "1",
+        "shortName": "Itto",
+        "start": "2021-12-14 18:00:00",
+        "end": "2022-01-04 17:59:59"
+      },
+      {
+        "name": "The Transcendent One Returns",
+        "image": "1",
+        "shortName": "Shenhe",
+        "start": "2022-01-05 06:00:00",
+        "end": "2022-01-25 17:59:59"
+      },
+      {
+        "name": "Gentry of Hermitage",
+        "image": "3",
+        "shortName": "Zhongli",
+        "start": "2022-01-25 18:00:00",
+        "end": "2022-02-15 14:59:59"
+      },
+      {
+        "name": "Everbloom Violet",
+        "image": "1",
+        "shortName": "Yae",
+        "start": "2022-02-16 06:00:00",
+        "end": "2022-03-08 17:59:59"
+      },
+      {
+        "name": "Reign of Serenity",
+        "image": "2",
+        "shortName": "Raiden",
+        "start": "2022-03-08 18:00:00",
+        "end": "2022-03-29 14:59:59"
+      },
+      {
+        "name": "Azure Excursion",
+        "image": "1",
+        "shortName": "Ayato",
+        "start": "2022-03-30 06:00:00",
+        "end": "2022-04-19 17:59:59"
+      },
+      {
+        "name": "The Herons Court",
+        "image": "2",
+        "shortName": "Ayaka",
+        "start": "2022-04-19 18:00:00",
+        "end": "2022-05-31 05:59:59"
+      },
+      {
+        "name": "Discerner of Enigmas",
+        "image": "1",
+        "shortName": "Yelan",
+        "start": "2022-05-31 09:00:00",
+        "end": "2022-06-21 17:59:59"
+      },
+      {
+        "name": "Oni's Royale",
+        "image": "2",
+        "shortName": "Itto",
+        "start": "2022-06-21 18:00:00",
+        "end": "2022-07-12 14:59:59"
+      },
+      {
+        "name": "Leaves in the Wind",
+        "image": "2",
+        "shortName": "Kazuha",
+        "start": "2022-07-13 06:00:00",
+        "end": "2022-08-02 17:59:59"
+      },
+      {
+        "name": "Tapestry of Golden Flames",
+        "image": "2",
+        "shortName": "Yoimiya",
+        "start": "2022-08-02 18:00:00",
+        "end": "2022-08-23 14:59:59"
+      },
+      {
+        "name": "Viridescent Vigil",
+        "image": "1",
+        "shortName": "Tighnari",
+        "start": "2022-08-24 06:00:00",
+        "end": "2022-09-09 17:59:59"
+      },
+      {
+        "name": "Adrift in the Harbor",
+        "image": "3",
+        "shortName": "Ganyu",
+        "start": "2022-09-09 18:00:00",
+        "end": "2022-09-27 14:59:59"
+      },
+      {
+        "name": "Twilight Arbiter",
+        "image": "1",
+        "shortName": "Cyno",
+        "start": "2022-09-28 06:00:00",
+        "end": "2022-10-14 17:59:59"
+      },
+      {
+        "name": "Twirling Lotus",
+        "image": "1",
+        "shortName": "Nilou",
+        "start": "2022-10-14 18:00:00",
+        "end": "2022-11-01 14:59:59"
+      },
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "1",
+        "shortName": "Nahida",
+        "start": "2022-11-02 06:00:00",
+        "end": "2022-11-18 17:59:59"
+      },
+      {
+        "name": "Everbloom Violet",
+        "image": "2",
+        "shortName": "Yae Miko",
+        "start": "2022-11-18 18:00:00",
+        "end": "2022-12-06 14:59:59"
+      },
+      {
+        "name": "From Ashes Reborn",
+        "image": "1",
+        "shortName": "Wanderer",
+        "start": "2022-12-07 06:00:00",
+        "end": "2022-12-27 17:59:59"
+      },
+      {
+        "name": "Reign of Serenity",
+        "image": "3",
+        "shortName": "Raiden",
+        "start": "2022-12-27 18:00:00",
+        "end": "2023-01-17 14:59:59"
+      },
+      {
+        "name": "Caution in Confidence",
+        "image": "1",
+        "shortName": "Alhaitham",
+        "start": "2023-01-18 06:00:00",
+        "end": "2023-02-07 17:59:59"
+      },
+      {
+        "name": "Moment of Bloom",
+        "image": "3",
+        "shortName": "Hu Tao",
+        "start": "2023-02-07 18:00:00",
+        "end": "2023-02-28 14:59:59"
+      },
+      {
+        "name": "Auric Blaze",
+        "image": "1",
+        "shortName": "Dehya",
+        "start": "2023-03-01 06:00:00",
+        "end": "2023-03-21 17:59:59"
+      },
+      {
+        "name": "The Transcendent One Returns",
+        "image": "2",
+        "shortName": "Shenhe",
+        "start": "2023-03-21 18:00:00",
+        "end": "2023-04-11 14:59:59"
+      },
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "2",
+        "shortName": "Nahida",
+        "start": "2023-04-12 06:00:00",
+        "end": "2023-05-02 17:59:59"
+      },
+      {
+        "name": "Immaculate Pulse",
+        "image": "1",
+        "shortName": "Baizhu",
+        "start": "2023-05-02 18:00:00",
+        "end": "2023-05-23 14:59:59"
+      },
+      {
+        "name": "Tapestry of Golden Flames",
+        "image": "4",
+        "shortName": "Yoimiya",
+        "start": "2023-05-24 06:00:00",
+        "end": "2023-06-13 17:59:59"
+      },
+      {
+        "name": "Caution in Confidence",
+        "image": "2",
+        "shortName": "Alhaitham",
+        "start": "2023-06-13 18:00:00",
+        "end": "2023-07-04 14:59:59"
+      },
+      {
+        "name": "Born of Ocean Swell",
+        "image": "3",
+        "shortName": "Eula",
+        "start": "2023-07-05 06:00:00",
+        "end": "2023-07-25 17:59:59"
+      },
+      {
+        "name": "Drifting Luminescence",
+        "image": "4",
+        "shortName": "Kokomi",
+        "start": "2023-07-25 18:00:00",
+        "end": "2023-08-15 17:59:59"
+      },
+      {
+        "name": "Conjuring Chiaroscuro",
+        "image": "1",
+        "shortName": "Lyney",
+        "start": "2023-08-16 06:00:00",
+        "end": "2023-09-05 17:59:59"
+      },
+      {
+        "name": "Gentry of Hermitage",
+        "image": "5",
+        "shortName": "Zhongli",
+        "start": "2023-09-05 18:00:00",
+        "end": "2023-09-26 14:59:59"
+      },
+      {
+        "name": "Decree of the Deeps",
+        "image": "1",
+        "shortName": "Neuvillette",
+        "start": "2023-09-27 06:00:00",
+        "end": "2023-10-17 17:59:59"
+      },
+      {
+        "name": "Tempestuous Destiny",
+        "image": "1",
+        "shortName": "Wriothesley",
+        "start": "2023-10-17 18:00:00",
+        "end": "2023-11-07 14:59:59"
+      },
+      {
+        "name": "Chanson of Many Waters",
+        "image": "1",
+        "shortName": "Furina",
+        "start": "2023-11-08 06:00:00",
+        "end": "2023-11-28 17:59:59"
+      },
+      {
+        "name": "Twilight Arbiter",
+        "image": "3",
+        "shortName": "Cyno",
+        "start": "2023-11-28 18:00:00",
+        "end": "2023-12-19 14:59:59"
+      },
+      {
+        "name": "In the Name of the Rosula",
+        "image": "1",
+        "shortName": "Navia",
+        "start": "2023-12-20 06:00:00",
+        "end": "2024-01-09 17:59:59"
+      },
+      {
+        "name": "Reign of Serenity",
+        "image": "4",
+        "shortName": "Raiden",
+        "start": "2024-01-09 18:00:00",
+        "end": "2024-01-30 14:59:00"
+      },
+      {
+        "name": "The Crane Soars Skyward",
+        "image": "1",
+        "shortName": "Xianyun",
+        "start": "2024-01-31 06:00:00",
+        "end": "2024-02-20 17:59:00"
+      },
+      {
+        "name": "Invitation to Mundane Life",
+        "image": "5",
+        "shortName": "Xiao",
+        "start": "2024-02-20 18:00:00",
+        "end": "2024-03-12 14:59:00"
+      },
+      {
+        "name": "Of Silken Clouds Woven",
+        "image": "1",
+        "shortName": "Chiori",
+        "start": "2024-03-13 06:00:00",
+        "end": "2024-04-02 17:59:00"
+      },
+      {
+        "name": "Decree of the Deeps",
+        "image": "2",
+        "shortName": "Neuvillette",
+        "start": "2024-04-02 18:00:00",
+        "end": "2024-04-23 14:59:00"
+      },
+      {
+        "name": "The Hearth's Ashen Shadow",
+        "image": "1",
+        "shortName": "Arlecchino",
+        "start": "2024-04-24 06:00:00",
+        "end": "2024-05-14 17:59:00"
+      },
+      {
+        "name": "From Ashes Reborn",
+        "image": "3",
+        "shortName": "Wanderer",
+        "start": "2024-05-14 18:00:00",
+        "end": "2024-06-04 14:59:00"
+      },
+      {
+        "name": "Illuminating Lightning",
+        "image": "1",
+        "shortName": "Clorinde",
+        "start": "2024-06-05 06:00:00",
+        "end": "2024-06-25 17:59:00"
+      },
+      {
+        "name": "Romaritime Meluserenity",
+        "image": "1",
+        "shortName": "Sigewinne",
+        "start": "2024-06-25 18:00:00",
+        "end": "2024-07-16 14:59:00"
+      },
+      {
+        "name": "In the Name of the Rosula",
+        "image": "2",
+        "shortName": "Navia",
+        "start": "2024-07-17 06:00:00",
+        "end": "2024-08-06 17:59:00"
+      },
+      {
+        "name": "Ambrosial Essence",
+        "image": "1",
+        "shortName": "Emilie",
+        "start": "2024-08-06 18:00:00",
+        "end": "2024-08-27 14:59:00"
+      },
+      {
+        "name": "Sharktacular Surfari",
+        "image": "1",
+        "shortName": "Mualani",
+        "start": "2024-08-28 06:00:00",
+        "end": "2024-09-17 17:59:00"
+      },
+      {
+        "name": "Seeker of Flame-Wrought Secrets",
+        "image": "1",
+        "shortName": "Kinich",
+        "start": "2024-09-17 18:00:00",
+        "end": "2024-10-08 14:59:00"
+      },
+      {
+        "name": "Forgefire's Blessing",
+        "image": "1",
+        "shortName": "Xilonen",
+        "start": "2024-10-09 06:00:00",
+        "end": "2024-10-29 17:59:00"
+      },
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "4",
+        "shortName": "Nahida",
+        "start": "2024-10-29 18:00:00",
+        "end": "2024-11-19 14:59:00"
+      },
+      {
+        "name": "Piercing Shot's Crimson Wake",
+        "image": "1",
+        "shortName": "Chasca",
+        "start": "2024-11-20 06:00:00",
+        "end": "2024-12-10 17:59:00"
+      },
+      {
+        "name": "Decree of the Deeps",
+        "image": "3",
+        "shortName": "Neuvillette",
+        "start": "2024-12-10 18:00:00",
+        "end": "2024-12-31 14:59:00"
+      },
+      {
+        "name": "Ancient Flame Ablaze",
+        "image": "1",
+        "shortName": "Mavuika",
+        "start": "2025-01-01 06:00:00",
+        "end": "2025-01-21 17:59:00"
+      },
+      {
+        "name": "The Hearth's Ashen Shadow",
+        "image": "2",
+        "shortName": "Arlecchino",
+        "start": "2025-01-21 18:00:00",
+        "end": "2025-02-11 14:59:00"
+      },
+      {
+        "name": "Dawn's Drifting Reverie",
+        "image": "1",
+        "shortName": "Mizuki",
+        "start": "2025-02-12 06:00:00",
+        "end": "2025-03-04 17:59:00"
+      },
+      {
+        "name": "Tempestuous Destiny",
+        "image": "2",
+        "shortName": "Wriothesley",
+        "start": "2025-03-04 18:00:00",
+        "end": "2025-03-25 14:59:00"
+      },
+      {
+        "name": "Cornucopia of Contention",
+        "image": "1",
+        "shortName": "Varesa",
+        "start": "2025-03-26 06:00:00",
+        "end": "2025-04-15 17:59:00"
+      },
+      {
+        "name": "Forgefire's Blessing",
+        "image": "2",
+        "shortName": "Xilonen",
+        "start": "2025-04-15 18:00:00",
+        "end": "2025-05-06 14:59:00"
+      },
+      {
+        "name": "La Chanson Cerise",
+        "image": "1",
+        "shortName": "Escoffier",
+        "start": "2025-05-07 06:00:00",
+        "end": "2025-05-27 17:59:00"
+      },
+      {
+        "name": "Seeker of Flame-Wrought Secrets",
+        "image": "2",
+        "shortName": "Kinich",
+        "start": "2025-05-27 18:00:00",
+        "end": "2025-06-17 14:59:00"
+      },
+      {
+        "name": "Void Star's Advent",
+        "image": "1",
+        "shortName": "Skirk",
+        "start": "2025-06-18 06:00:00",
+        "end": "2025-07-08 17:59:00"
+      },
+      {
+        "name": "Ancient Flame Ablaze",
+        "image": "2",
+        "shortName": "Mavuika",
+        "start": "2025-07-08 18:00:00",
+        "end": "2025-07-29 14:59:00"
+      },
+      {
+        "name": "Astral Actuation",
+        "image": "1",
+        "shortName": "Ineffa",
+        "start": "2025-07-30 06:00:00",
+        "end": "2025-08-19 17:59:00"
+      },
+      {
+        "name": "Sharktacular Surfari",
+        "image": "2",
+        "shortName": "Mualani",
+        "start": "2025-08-19 18:00:00",
+        "end": "2025-09-09 14:59:00"
+      },
+      {
+        "name": "Moonsong of the Groves",
+        "image": "1",
+        "shortName": "Lauma",
+        "start": "2025-09-10 06:00:00",
+        "end": "2025-09-30 17:59:00"
+      },
+      {
+        "name": "The Lone Light Knocks at Night",
+        "image": "1",
+        "shortName": "Flins",
+        "start": "2025-09-30 18:00:00",
+        "end": "2025-10-21 17:59:00"
+      },
+      {
+        "name": "Temptation of the Crimson Sands",
+        "image": "1",
+        "shortName": "Nefer",
+        "start": "2025-10-22 06:00:00",
+        "end": "2025-11-11 17:59:00"
+      },
+      {
+        "name": "The Hearth's Ashen Shadow",
+        "image": "3",
+        "shortName": "Arlecchino",
+        "start": "2025-11-11 18:00:00",
+        "end": "2025-12-02 14:59:00"
+      },
+      {
+        "name": "Rubedo, of White Stone Born",
+        "image": "1",
+        "shortName": "Durin",
+        "start": "2025-12-03 06:00:00",
+        "end": "2025-12-23 17:59:00"
+      },
+      {
+        "name": "Cornucopia of Contention",
+        "image": "2",
+        "shortName": "Varesa",
+        "start": "2025-12-23 18:00:00",
+        "end": "2026-01-13 14:59:00"
+      },
+      {
+        "name": "Somnias a Luna",
+        "image": "1",
+        "shortName": "Columbina",
+        "start": "2026-01-14 06:00:00",
+        "end": "2026-02-03 17:59:00"
+      },
+      {
+        "name": "Harmonious Abundance",
+        "image": "1",
+        "shortName": "Zibai",
+        "start": "2026-02-03 18:00:00",
+        "end": "2026-02-24 14:59:00"
+      },
+      {
+        "name": "The Northerly Wind's Song of Triumph",
+        "image": "1",
+        "shortName": "Varka",
+        "start": "2026-02-25 06:00:00",
+        "end": "2026-03-17 17:59:00"
+      },
+      {
+        "name": "Void Star's Advent",
+        "image": "2",
+        "shortName": "Skirk",
+        "start": "2026-03-17 18:00:00",
+        "end": "2026-04-07 14:59:00"
+      },
+      {
+        "name": "Ya-hoho! Compendium",
+        "image": "1",
+        "shortName": "Linnea",
+        "start": "2026-04-08 06:00:00",
+        "end": "2026-04-28 17:59:00"
+      },
+      {
+        "name": "Moonsong of the Groves",
+        "image": "2",
+        "shortName": "Lauma",
+        "start": "2026-04-28 18:00:00",
+        "end": "2026-05-19 14:59:00"
+      },
+      {
+        "name": "Angel's Reverie",
+        "image": "1",
+        "shortName": "Nicole",
+        "start": "2026-05-20 06:00:00",
+        "end": "2026-06-09 17:59:00"
+      },
+      {
+        "name": "Frostedge Nocturne",
+        "image": "1",
+        "shortName": "Lohen",
+        "start": "2026-06-09 18:00:00",
+        "end": "2026-06-30 14:59:00"
+      },
+      {
+        "name": "To the Looking-Glass the Mademoiselle Said",
+        "image": "1",
+        "shortName": "Sandrone",
+        "start": "2026-07-01 06:00:00",
+        "end": "2026-07-21 17:59:00"
+      },
+      {
+        "name": "Somnias a Luna",
+        "image": "2",
+        "shortName": "Columbina",
+        "start": "2026-07-21 18:00:00",
+        "end": "2026-08-11 14:59:00"
+      },
+      {
+        "name": "Swan's Shadow in Silken Ice",
+        "image": "1",
+        "shortName": "Odette",
+        "start": "2026-08-12 06:00:00",
+        "end": "2026-09-01 17:59:00"
+      }
+    ],
+    "weapons": [
+      {
+        "name": "Epitome Invocation",
+        "image": "1",
+        "shortName": "Amos",
+        "start": "2020-09-28 00:00:00",
+        "end": "2020-10-18 18:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "2",
+        "shortName": "Lost Prayer",
+        "start": "2020-10-20 18:00:00",
+        "end": "2020-11-10 16:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "3",
+        "shortName": "Skyward",
+        "start": "2020-11-11 06:00:00",
+        "end": "2020-12-01 16:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "4",
+        "shortName": "Vortex",
+        "start": "2020-12-01 18:00:00",
+        "end": "2020-12-22 15:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "5",
+        "shortName": "Summit",
+        "start": "2020-12-23 06:00:00",
+        "end": "2021-01-12 16:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "6",
+        "shortName": "Amos",
+        "start": "2021-01-12 18:00:00",
+        "end": "2021-02-02 15:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "7",
+        "shortName": "Primordial",
+        "start": "2021-02-03 06:00:00",
+        "end": "2021-02-23 16:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "8",
+        "shortName": "Homa",
+        "start": "2021-02-23 18:00:00",
+        "end": "2021-03-16 15:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "9",
+        "shortName": "Elegy",
+        "start": "2021-03-17 06:00:00",
+        "end": "2021-04-06 16:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "10",
+        "shortName": "Skyward",
+        "start": "2021-04-06 18:00:00",
+        "end": "2021-04-27 15:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "11",
+        "shortName": "Summit",
+        "start": "2021-04-28 06:00:00",
+        "end": "2021-05-18 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "12",
+        "shortName": "Pines",
+        "start": "2021-05-18 18:00:00",
+        "end": "2021-06-08 15:00:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "13",
+        "shortName": "Lost Prayer",
+        "start": "2021-06-09 06:00:00",
+        "end": "2021-06-29 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "14",
+        "shortName": "Freedom-Sworn",
+        "start": "2021-06-29 18:00:00",
+        "end": "2021-07-20 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "15",
+        "shortName": "Mistsplitter",
+        "start": "2021-07-21 06:00:00",
+        "end": "2021-08-10 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "16",
+        "shortName": "Thundering Pulse",
+        "start": "2021-08-10 18:00:00",
+        "end": "2021-08-31 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "17",
+        "shortName": "Engulfing",
+        "start": "2021-09-01 06:00:00",
+        "end": "2021-09-21 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "18",
+        "shortName": "Moonglow",
+        "start": "2021-09-21 18:00:00",
+        "end": "2021-10-12 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "19",
+        "shortName": "Polar Star",
+        "start": "2021-10-13 06:00:00",
+        "end": "2021-11-02 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "20",
+        "shortName": "Homa",
+        "start": "2021-11-02 18:00:00",
+        "end": "2021-11-23 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "21",
+        "shortName": "Freedom",
+        "start": "2021-11-24 06:00:00",
+        "end": "2021-12-14 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "22",
+        "shortName": "Redhorn",
+        "start": "2021-12-14 18:00:00",
+        "end": "2022-01-04 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "23",
+        "shortName": "Queller",
+        "start": "2022-01-05 06:00:00",
+        "end": "2022-01-25 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "24",
+        "shortName": "Amos",
+        "start": "2022-01-25 18:00:00",
+        "end": "2022-02-15 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "25",
+        "shortName": "Verity",
+        "start": "2022-02-16 06:00:00",
+        "end": "2022-03-08 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "26",
+        "shortName": "Engulfing",
+        "start": "2022-03-08 18:00:00",
+        "end": "2022-03-29 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "27",
+        "shortName": "Haran",
+        "start": "2022-03-30 06:00:00",
+        "end": "2022-04-19 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "28",
+        "shortName": "Mistsplitter",
+        "start": "2022-04-19 18:00:00",
+        "end": "2022-05-31 05:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "29",
+        "shortName": "Aqua",
+        "start": "2022-05-31 09:00:00",
+        "end": "2022-06-21 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "30",
+        "shortName": "Redhorn",
+        "start": "2022-06-21 18:00:00",
+        "end": "2022-07-12 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "31",
+        "shortName": "Freedom-Sworn",
+        "start": "2022-07-13 06:00:00",
+        "end": "2022-08-02 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "32",
+        "shortName": "Thundering",
+        "start": "2022-08-02 18:00:00",
+        "end": "2022-08-23 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "33",
+        "shortName": "Hunters",
+        "start": "2022-08-24 06:00:00",
+        "end": "2022-09-09 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "34",
+        "shortName": "Amos",
+        "start": "2022-09-09 18:00:00",
+        "end": "2022-09-27 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "35",
+        "shortName": "Scarlet",
+        "start": "2022-09-28 06:00:00",
+        "end": "2022-10-14 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "36",
+        "shortName": "Nisut",
+        "start": "2022-10-14 18:00:00",
+        "end": "2022-11-01 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "37",
+        "shortName": "Dreams",
+        "start": "2022-11-02 06:00:00",
+        "end": "2022-11-18 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "38",
+        "shortName": "Kagura",
+        "start": "2022-11-18 18:00:00",
+        "end": "2022-12-06 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "39",
+        "shortName": "Tulaytullah",
+        "start": "2022-12-07 06:00:00",
+        "end": "2022-12-27 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "40",
+        "shortName": "Egulfing",
+        "start": "2022-12-27 18:00:00",
+        "end": "2023-01-17 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "41",
+        "shortName": "Incision",
+        "start": "2023-01-18 06:00:00",
+        "end": "2023-02-07 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "42",
+        "shortName": "Homa",
+        "start": "2023-02-07 18:00:00",
+        "end": "2023-02-28 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "43",
+        "shortName": "Incision",
+        "start": "2023-03-01 06:00:00",
+        "end": "2023-03-21 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "44",
+        "shortName": "Incision",
+        "start": "2023-03-21 18:00:00",
+        "end": "2023-04-11 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "45",
+        "shortName": "Dreams",
+        "start": "2023-04-12 06:00:00",
+        "end": "2023-05-02 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "46",
+        "shortName": "jadefalls_splendor",
+        "start": "2023-05-02 18:00:00",
+        "end": "2023-05-23 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "47",
+        "shortName": "Thundering",
+        "start": "2023-05-24 06:00:00",
+        "end": "2023-06-13 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "48",
+        "shortName": "Freedom",
+        "start": "2023-06-13 18:00:00",
+        "end": "2023-07-04 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "49",
+        "shortName": "Freedom",
+        "start": "2023-07-05 06:00:00",
+        "end": "2023-07-25 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "50",
+        "shortName": "Moonglow",
+        "start": "2023-07-25 18:00:00",
+        "end": "2023-08-15 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "51",
+        "shortName": "Great Magic",
+        "start": "2023-08-16 06:00:00",
+        "end": "2023-09-05 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "52",
+        "shortName": "Polar",
+        "start": "2023-09-05 18:00:00",
+        "end": "2023-09-26 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "53",
+        "shortName": "Polar",
+        "start": "2023-09-27 06:00:00",
+        "end": "2023-10-17 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "54",
+        "shortName": "Polar",
+        "start": "2023-10-17 18:00:00",
+        "end": "2023-11-07 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "55",
+        "shortName": "Tranquil",
+        "start": "2023-11-08 06:00:00",
+        "end": "2023-11-28 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "56",
+        "shortName": "Scarlet",
+        "start": "2023-11-28 18:00:00",
+        "end": "2023-12-19 14:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "57",
+        "shortName": "Verdict",
+        "start": "2023-12-20 06:00:00",
+        "end": "2024-01-09 17:59:59"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "58",
+        "shortName": "Engulfing",
+        "start": "2024-01-09 18:00:00",
+        "end": "2024-01-30 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "59",
+        "shortName": "Crane",
+        "start": "2024-01-31 06:00:00",
+        "end": "2024-02-20 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "60",
+        "shortName": "Primordial",
+        "start": "2024-02-20 18:00:00",
+        "end": "2024-03-12 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "61",
+        "shortName": "Misugiri",
+        "start": "2024-03-13 06:00:00",
+        "end": "2024-04-02 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "62",
+        "shortName": "Eternal",
+        "start": "2024-04-02 18:00:00",
+        "end": "2024-04-23 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "63",
+        "shortName": "Crimson",
+        "start": "2024-04-24 06:00:00",
+        "end": "2024-05-14 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "64",
+        "shortName": "Tulaytullah",
+        "start": "2024-05-14 18:00:00",
+        "end": "2024-06-04 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "65",
+        "shortName": "Absolution",
+        "start": "2024-06-05 06:00:00",
+        "end": "2024-06-25 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "66",
+        "shortName": "Silvershower",
+        "start": "2024-06-25 18:00:00",
+        "end": "2024-07-16 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "67",
+        "shortName": "Verdict",
+        "start": "2024-07-17 06:00:00",
+        "end": "2024-08-06 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "68",
+        "shortName": "Lumidouce",
+        "start": "2024-08-06 18:00:00",
+        "end": "2024-08-27 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "69",
+        "shortName": "Surf's Up",
+        "start": "2024-08-28 06:00:00",
+        "end": "2024-09-17 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "70",
+        "shortName": "Mountain King",
+        "start": "2024-09-17 18:00:00",
+        "end": "2024-10-08 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "71",
+        "shortName": "Peak",
+        "start": "2024-10-09 06:00:00",
+        "end": "2024-10-29 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "72",
+        "shortName": "Dreams",
+        "start": "2024-10-29 18:00:00",
+        "end": "2024-11-19 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "73",
+        "shortName": "Astral",
+        "start": "2024-11-20 06:00:00",
+        "end": "2024-12-10 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "74",
+        "shortName": "Tome",
+        "start": "2024-12-10 18:00:00",
+        "end": "2024-12-31 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "75",
+        "shortName": "Blazing",
+        "start": "2025-01-01 06:00:00",
+        "end": "2025-01-21 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "76",
+        "shortName": "Blazing",
+        "start": "2025-01-21 18:00:00",
+        "end": "2025-02-11 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "77",
+        "shortName": "Blazing",
+        "start": "2025-02-12 06:00:00",
+        "end": "2025-03-04 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "78",
+        "shortName": "Splendor",
+        "start": "2025-03-04 18:00:00",
+        "end": "2025-03-25 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "79",
+        "shortName": "Vivid",
+        "start": "2025-03-26 06:00:00",
+        "end": "2025-04-15 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "80",
+        "shortName": "Vivid",
+        "start": "2025-04-15 18:00:00",
+        "end": "2025-05-06 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "81",
+        "shortName": "Scents",
+        "start": "2025-05-07 06:00:00",
+        "end": "2025-05-27 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "82",
+        "shortName": "Mountain King",
+        "start": "2025-05-27 18:00:00",
+        "end": "2025-06-17 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "83",
+        "shortName": "Azurelight",
+        "start": "2025-06-18 06:00:00",
+        "end": "2025-07-08 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "84",
+        "shortName": "Blazing",
+        "start": "2025-07-08 18:00:00",
+        "end": "2025-07-29 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "85",
+        "shortName": "Halo",
+        "start": "2025-07-30 06:00:00",
+        "end": "2025-08-19 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "86",
+        "shortName": "Surf's Up",
+        "start": "2025-08-19 18:00:00",
+        "end": "2025-09-09 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "87",
+        "shortName": "Nightweaver's",
+        "start": "2025-09-10 06:00:00",
+        "end": "2025-09-30 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "88",
+        "shortName": "Nightweaver's",
+        "start": "2025-09-30 18:00:00",
+        "end": "2025-10-21 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "89",
+        "shortName": "Truth",
+        "start": "2025-10-22 06:00:00",
+        "end": "2025-11-11 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "90",
+        "shortName": "Crimson",
+        "start": "2025-11-11 18:00:00",
+        "end": "2025-12-02 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "91",
+        "shortName": "Athame",
+        "start": "2025-12-03 06:00:00",
+        "end": "2025-12-23 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "92",
+        "shortName": "Vivid",
+        "start": "2025-12-23 18:00:00",
+        "end": "2026-01-13 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "93",
+        "shortName": "Nocturne",
+        "start": "2026-01-14 06:00:00",
+        "end": "2026-02-03 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "94",
+        "shortName": "Nocturne",
+        "start": "2026-02-03 18:00:00",
+        "end": "2026-02-24 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "95",
+        "shortName": "Mighty Wolf",
+        "start": "2026-02-25 06:00:00",
+        "end": "2026-03-17 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "96",
+        "shortName": "Azurelight",
+        "start": "2026-03-17 18:00:00",
+        "end": "2026-04-07 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "97",
+        "shortName": "Frostbound",
+        "start": "2026-04-08 06:00:00",
+        "end": "2026-04-28 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "98",
+        "shortName": "Nightweaver",
+        "start": "2026-04-28 18:00:00",
+        "end": "2026-05-19 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "99",
+        "shortName": "Angelos",
+        "start": "2026-05-20 06:00:00",
+        "end": "2026-06-09 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "100",
+        "shortName": "Disaster",
+        "start": "2026-06-09 18:00:00",
+        "end": "2026-06-30 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "101",
+        "shortName": "Transcendence",
+        "start": "2026-07-01 06:00:00",
+        "end": "2026-07-21 17:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "102",
+        "shortName": "Nocturne",
+        "start": "2026-07-21 18:00:00",
+        "end": "2026-08-11 14:59:00"
+      },
+      {
+        "name": "Epitome Invocation",
+        "image": "103",
+        "shortName": "Epitome Invocation",
+        "start": "2026-08-12 06:00:00",
+        "end": "2026-09-01 17:59:00"
+      }
+    ],
+    "chronicled": [
+      {
+        "name": "Ode to the Dawn Breeze",
+        "image": "1",
+        "shortName": "Mondstadt",
+        "start": "2024-03-13 06:00:00",
+        "end": "2024-04-02 17:59:00"
+      },
+      {
+        "name": "Remembrance of Jade and Stone",
+        "image": "1",
+        "shortName": "Liyue",
+        "start": "2025-01-21 18:00:00",
+        "end": "2025-02-11 14:59:00"
+      },
+      {
+        "name": "Thunder Rends the Plains on High",
+        "image": "1",
+        "shortName": "Inazuma",
+        "start": "2025-05-27 18:00:00",
+        "end": "2025-06-17 14:59:00"
+      },
+      {
+        "name": "Roving Chalice of Dewgrass",
+        "image": "1",
+        "shortName": "Sumeru",
+        "start": "2025-09-10 06:00:00",
+        "end": "2025-09-30 17:59:00"
+      },
+      {
+        "name": "Ode to the Dawn Breeze",
+        "image": "2",
+        "shortName": "Mondstadt",
+        "start": "2026-02-25 06:00:00",
+        "end": "2026-03-17 17:59:00"
+      },
+      {
+        "name": "Dewlit Tranquility",
+        "image": "1",
+        "shortName": "Fontaine",
+        "start": "2026-04-28 18:00:00",
+        "end": "2026-05-19 14:59:00"
+      },
+      {
+        "name": "Heavenlit Prophecy",
+        "image": "1",
+        "shortName": "Mixed",
+        "start": "2026-07-01 06:00:00",
+        "end": "2026-07-21 17:59:00"
+      }
+    ]
+  },
+  "dual": {
+    "Secretum Secretorum 2": [
+      {
+        "name": "Secretum Secretorum",
+        "image": "2",
+        "shortName": "Albedo"
+      },
+      {
+        "name": "Born of Ocean Swell",
+        "image": "2",
+        "shortName": "Eula"
+      }
+    ],
+    "The Transcendent One Returns 1": [
+      {
+        "name": "The Transcendent One Returns",
+        "image": "1",
+        "shortName": "Shenhe"
+      },
+      {
+        "name": "Invitation to Mundane Life",
+        "image": "2",
+        "shortName": "Xiao"
+      }
+    ],
+    "Gentry of Hermitage 3": [
+      {
+        "name": "Gentry of Hermitage",
+        "image": "3",
+        "shortName": "Zhongli"
+      },
+      {
+        "name": "Adrift in the Harbor",
+        "image": "2",
+        "shortName": "Ganyu"
+      }
+    ],
+    "Reign of Serenity 2": [
+      {
+        "name": "Reign of Serenity",
+        "image": "2",
+        "shortName": "Raiden"
+      },
+      {
+        "name": "Drifting Luminescence",
+        "image": "2",
+        "shortName": "Kokomi"
+      }
+    ],
+    "Azure Excursion 1": [
+      {
+        "name": "Azure Excursion",
+        "image": "1",
+        "shortName": "Ayato"
+      },
+      {
+        "name": "Ballad in Goblets",
+        "image": "3",
+        "shortName": "Venti"
+      }
+    ],
+    "Discerner of Enigmas 1": [
+      {
+        "name": "Discerner of Enigmas",
+        "image": "1",
+        "shortName": "Yelan"
+      },
+      {
+        "name": "Invitation to Mundane Life",
+        "image": "3",
+        "shortName": "Xiao"
+      }
+    ],
+    "Leaves in the Wind 2": [
+      {
+        "name": "Leaves in the Wind",
+        "image": "2",
+        "shortName": "Kazuha"
+      },
+      {
+        "name": "Sparkling Steps",
+        "image": "3",
+        "shortName": "Klee"
+      }
+    ],
+    "Viridescent Vigil 1": [
+      {
+        "name": "Viridescent Vigil",
+        "image": "1",
+        "shortName": "Tighnari"
+      },
+      {
+        "name": "Gentry of Hermitage",
+        "image": "4",
+        "shortName": "Zhongli"
+      }
+    ],
+    "Adrift in the Harbor 3": [
+      {
+        "name": "Adrift in the Harbor",
+        "image": "3",
+        "shortName": "Ganyu"
+      },
+      {
+        "name": "Drifting Luminescence",
+        "image": "3",
+        "shortName": "Kokomi"
+      }
+    ],
+    "Twilight Arbiter 1": [
+      {
+        "name": "Twilight Arbiter",
+        "image": "1",
+        "shortName": "Cyno"
+      },
+      {
+        "name": "Ballad in Goblets",
+        "image": "4",
+        "shortName": "Venti"
+      }
+    ],
+    "Twirling Lotus 1": [
+      {
+        "name": "Twirling Lotus",
+        "image": "1",
+        "shortName": "Nilou"
+      },
+      {
+        "name": "Secretum Secretorum",
+        "image": "3",
+        "shortName": "Nilou"
+      }
+    ],
+    "The Moongrass' Enlightenment 1": [
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "1",
+        "shortName": "Nahida"
+      },
+      {
+        "name": "Tapestry of Golden Flames",
+        "image": "3",
+        "shortName": "Yoimiya"
+      }
+    ],
+    "Everbloom Violet 2": [
+      {
+        "name": "Everbloom Violet",
+        "image": "2",
+        "shortName": "Yae Miko"
+      },
+      {
+        "name": "Farewell of Snezhnaya",
+        "image": "4",
+        "shortName": "Tartaglia"
+      }
+    ],
+    "From Ashes Reborn 1": [
+      {
+        "name": "From Ashes Reborn",
+        "image": "1",
+        "shortName": "Wanderer"
+      },
+      {
+        "name": "Oni's Royale",
+        "image": "3",
+        "shortName": "Itto"
+      }
+    ],
+    "Reign of Serenity 3": [
+      {
+        "name": "Reign of Serenity",
+        "image": "3",
+        "shortName": "Raiden"
+      },
+      {
+        "name": "Azure Excursion",
+        "image": "2",
+        "shortName": "Ayato"
+      }
+    ],
+    "Caution in Confidence 1": [
+      {
+        "name": "Caution in Confidence",
+        "image": "1",
+        "shortName": "Alhaitham"
+      },
+      {
+        "name": "Invitation to Mundane Life",
+        "image": "4",
+        "shortName": "Xiao"
+      }
+    ],
+    "Moment of Bloom 3": [
+      {
+        "name": "Moment of Bloom",
+        "image": "3",
+        "shortName": "Hu Tao"
+      },
+      {
+        "name": "Discerner of Enigmas",
+        "image": "2",
+        "shortName": "Yelan"
+      }
+    ],
+    "Auric Blaze 1": [
+      {
+        "name": "Auric Blaze",
+        "image": "1",
+        "shortName": "Dehya"
+      },
+      {
+        "name": "Twilight Arbiter",
+        "image": "2",
+        "shortName": "Cyno"
+      }
+    ],
+    "The Transcendent One Returns 2": [
+      {
+        "name": "The Transcendent One Returns",
+        "image": "2",
+        "shortName": "Shenhe"
+      },
+      {
+        "name": "The Herons Court",
+        "image": "3",
+        "shortName": "Shenhe"
+      }
+    ],
+    "The Moongrass' Enlightenment 2": [
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "2",
+        "shortName": "Nahida"
+      },
+      {
+        "name": "Twirling Lotus",
+        "image": "2",
+        "shortName": "Nilou"
+      }
+    ],
+    "Immaculate Pulse 1": [
+      {
+        "name": "Immaculate Pulse",
+        "image": "1",
+        "shortName": "Baizhu"
+      },
+      {
+        "name": "Adrift in the Harbor",
+        "image": "4",
+        "shortName": "Ganyu"
+      }
+    ],
+    "Tapestry of Golden Flames 4": [
+      {
+        "name": "Tapestry of Golden Flames",
+        "image": "4",
+        "shortName": "Yoimiya"
+      },
+      {
+        "name": "Everbloom Violet",
+        "image": "3",
+        "shortName": "Yae Miko"
+      }
+    ],
+    "Caution in Confidence 2": [
+      {
+        "name": "Caution in Confidence",
+        "image": "2",
+        "shortName": "Alhaitham"
+      },
+      {
+        "name": "Leaves in the Wind",
+        "image": "3",
+        "shortName": "Kazuha"
+      }
+    ],
+    "Born of Ocean Swell 3": [
+      {
+        "name": "Born of Ocean Swell",
+        "image": "3",
+        "shortName": "Eula"
+      },
+      {
+        "name": "Sparkling Steps",
+        "image": "4",
+        "shortName": "Klee"
+      }
+    ],
+    "Drifting Luminescence 4": [
+      {
+        "name": "Drifting Luminescence",
+        "image": "4",
+        "shortName": "Kokomi"
+      },
+      {
+        "name": "From Ashes Reborn",
+        "image": "2",
+        "shortName": "Wanderer"
+      }
+    ],
+    "Conjuring Chiaroscuro 1": [
+      {
+        "name": "Conjuring Chiaroscuro",
+        "image": "1",
+        "shortName": "Lyney"
+      },
+      {
+        "name": "Discerner of Enigmas",
+        "image": "3",
+        "shortName": "Yelan"
+      }
+    ],
+    "Gentry of Hermitage 5": [
+      {
+        "name": "Gentry of Hermitage",
+        "image": "5",
+        "shortName": "Zhongli"
+      },
+      {
+        "name": "Farewell of Snezhnaya",
+        "image": "5",
+        "shortName": "Tartaglia"
+      }
+    ],
+    "Decree of the Deeps 1": [
+      {
+        "name": "Decree of the Deeps",
+        "image": "1",
+        "shortName": "Neuvillette"
+      },
+      {
+        "name": "Moment of Bloom",
+        "image": "4",
+        "shortName": "Hu Tao"
+      }
+    ],
+    "Tempestuous Destiny 1": [
+      {
+        "name": "Tempestuous Destiny",
+        "image": "1",
+        "shortName": "Wriothesley"
+      },
+      {
+        "name": "Ballad in Goblets",
+        "image": "5",
+        "shortName": "Venti"
+      }
+    ],
+    "Chanson of Many Waters 1": [
+      {
+        "name": "Chanson of Many Waters",
+        "image": "1",
+        "shortName": "Furina"
+      },
+      {
+        "name": "Immaculate Pulse",
+        "image": "2",
+        "shortName": "Baizhu"
+      }
+    ],
+    "Twilight Arbiter 3": [
+      {
+        "name": "Twilight Arbiter",
+        "image": "3",
+        "shortName": "Cyno"
+      },
+      {
+        "name": "Azure Excursion",
+        "image": "3",
+        "shortName": "Ayato"
+      }
+    ],
+    "In the Name of the Rosula 1": [
+      {
+        "name": "In the Name of the Rosula",
+        "image": "1",
+        "shortName": "Navia"
+      },
+      {
+        "name": "The Heron's Court",
+        "image": "4",
+        "shortName": "Ayaka"
+      }
+    ],
+    "Reign of Serenity 4": [
+      {
+        "name": "Reign of Serenity",
+        "image": "4",
+        "shortName": "Raiden"
+      },
+      {
+        "name": "Tapestry of Golden Flames",
+        "image": "5",
+        "shortName": "Yoimiya"
+      }
+    ],
+    "The Crane Soars Skyward 1": [
+      {
+        "name": "The Crane Soars Skyward",
+        "image": "1",
+        "shortName": "Xianyun"
+      },
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "3",
+        "shortName": "Nahida"
+      }
+    ],
+    "Invitation to Mundane Life 5": [
+      {
+        "name": "Invitation to Mundane Life",
+        "image": "5",
+        "shortName": "Xiao"
+      },
+      {
+        "name": "Everbloom Violet",
+        "image": "4",
+        "shortName": "Yae"
+      }
+    ],
+    "Of Silken Clouds Woven 1": [
+      {
+        "name": "Of Silken Clouds Woven",
+        "image": "1",
+        "shortName": "Chiori"
+      },
+      {
+        "name": "Oni's Royale",
+        "image": "4",
+        "shortName": "Itto"
+      }
+    ],
+    "Decree of the Deeps 2": [
+      {
+        "name": "Decree of the Deeps",
+        "image": "2",
+        "shortName": "Neuvillette"
+      },
+      {
+        "name": "Leaves in the Wind",
+        "image": "4",
+        "shortName": "Kazuha"
+      }
+    ],
+    "The Hearth's Ashen Shadow 1": [
+      {
+        "name": "The Hearth's Ashen Shadow",
+        "image": "1",
+        "shortName": "Arlecchino"
+      },
+      {
+        "name": "Conjuring Chiaroscuro",
+        "image": "2",
+        "shortName": "Lyney"
+      }
+    ],
+    "From Ashes Reborn 3": [
+      {
+        "name": "From Ashes Reborn",
+        "image": "3",
+        "shortName": "Wanderer"
+      },
+      {
+        "name": "Immaculate Pulse",
+        "image": "3",
+        "shortName": "Baizhu"
+      }
+    ],
+    "Illuminating Lightning 1": [
+      {
+        "name": "Illuminating Lightning",
+        "image": "1",
+        "shortName": "Clorinde"
+      },
+      {
+        "name": "Caution in Confidence",
+        "image": "3",
+        "shortName": "Alhaitham"
+      }
+    ],
+    "Romaritime Meluserenity 1": [
+      {
+        "name": "Romaritime Meluserenity",
+        "image": "1",
+        "shortName": "Sigewinne"
+      },
+      {
+        "name": "Chanson of Many Waters",
+        "image": "2",
+        "shortName": "Furina"
+      }
+    ],
+    "In the Name of the Rosula 2": [
+      {
+        "name": "In the Name of the Rosula",
+        "image": "2",
+        "shortName": "Navia"
+      },
+      {
+        "name": "Twirling Lotus",
+        "image": "3",
+        "shortName": "Nilou"
+      }
+    ],
+    "Ambrosial Essence 1": [
+      {
+        "name": "Ambrosial Essence",
+        "image": "1",
+        "shortName": "Emilie"
+      },
+      {
+        "name": "Discerner of Enigmas",
+        "image": "4",
+        "shortName": "Yelan"
+      }
+    ],
+    "Sharktacular Surfari 1": [
+      {
+        "name": "Sharktacular Surfari",
+        "image": "1",
+        "shortName": "Mualani"
+      },
+      {
+        "name": "Leaves in the Wind",
+        "image": "5",
+        "shortName": "Kazuha"
+      }
+    ],
+    "Seeker of Flame-Wrought Secrets 1": [
+      {
+        "name": "Seeker of Flame-Wrought Secrets",
+        "image": "1",
+        "shortName": "Kinich"
+      },
+      {
+        "name": "Reign of Serenity",
+        "image": "5",
+        "shortName": "Raiden"
+      }
+    ],
+    "Forgefire's Blessing 1": [
+      {
+        "name": "Forgefire's Blessing",
+        "image": "1",
+        "shortName": "Xilonen"
+      },
+      {
+        "name": "Of Silken Clouds Woven",
+        "image": "2",
+        "shortName": "Chiori"
+      }
+    ],
+    "The Moongrass' Enlightenment 4": [
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "4",
+        "shortName": "Nahida"
+      },
+      {
+        "name": "Moment of Bloom",
+        "image": "5",
+        "shortName": "Hu Tao"
+      }
+    ],
+    "Piercing Shot's Crimson Wake 1": [
+      {
+        "name": "Piercing Shot's Crimson Wake",
+        "image": "1",
+        "shortName": "Chasca"
+      },
+      {
+        "name": "Conjuring Chiaroscuro",
+        "image": "3",
+        "shortName": "Lyney"
+      }
+    ],
+    "Decree of the Deeps 3": [
+      {
+        "name": "Decree of the Deeps",
+        "image": "3",
+        "shortName": "Neuvillette"
+      },
+      {
+        "name": "Gentry of Hermitage",
+        "image": "6",
+        "shortName": "Zhongli"
+      }
+    ],
+    "Ancient Flame Ablaze 1": [
+      {
+        "name": "Ancient Flame Ablaze",
+        "image": "1",
+        "shortName": "Mavuika"
+      },
+      {
+        "name": "Starry Night's Whispers",
+        "image": "1",
+        "shortName": "Citlali"
+      }
+    ],
+    "The Hearth's Ashen Shadow 2": [
+      {
+        "name": "The Hearth's Ashen Shadow",
+        "image": "2",
+        "shortName": "Arlecchino"
+      },
+      {
+        "name": "Illuminating Lightning",
+        "image": "2",
+        "shortName": "Clorinde"
+      }
+    ],
+    "Dawn's Drifting Reverie 1": [
+      {
+        "name": "Dawn's Drifting Reverie",
+        "image": "1",
+        "shortName": "Mizuki"
+      },
+      {
+        "name": "Romaritime Meluserenity",
+        "image": "2",
+        "shortName": "Sigewinne"
+      }
+    ],
+    "Tempestuous Destiny 2": [
+      {
+        "name": "Tempestuous Destiny",
+        "image": "2",
+        "shortName": "Wriothesley"
+      },
+      {
+        "name": "Chanson of Many Waters",
+        "image": "3",
+        "shortName": "Furina"
+      }
+    ],
+    "Cornucopia of Contention 1": [
+      {
+        "name": "Cornucopia of Contention",
+        "image": "1",
+        "shortName": "Varesa"
+      },
+      {
+        "name": "The Crane Soars Skyward",
+        "image": "2",
+        "shortName": "Xianyun"
+      }
+    ],
+    "Forgefire's Blessing 2": [
+      {
+        "name": "Forgefire's Blessing",
+        "image": "2",
+        "shortName": "Xilonen"
+      },
+      {
+        "name": "Ballad in Goblets",
+        "image": "6",
+        "shortName": "Xilonen"
+      }
+    ],
+    "La Chanson Cerise 1": [
+      {
+        "name": "La Chanson Cerise",
+        "image": "1",
+        "shortName": "Escoffier"
+      },
+      {
+        "name": "In the Name of the Rosula",
+        "image": "3",
+        "shortName": "Navia"
+      }
+    ],
+    "Seeker of Flame-Wrought Secrets 2": [
+      {
+        "name": "Seeker of Flame-Wrought Secrets",
+        "image": "2",
+        "shortName": "Kinich"
+      },
+      {
+        "name": "Reign of Serenity",
+        "image": "6",
+        "shortName": "Raiden"
+      }
+    ],
+    "Void Star's Advent 1": [
+      {
+        "name": "Void Star's Advent",
+        "image": "1",
+        "shortName": "Skirk"
+      },
+      {
+        "name": "The Transcendent One Returns",
+        "image": "3",
+        "shortName": "Shenhe"
+      }
+    ],
+    "Ancient Flame Ablaze 2": [
+      {
+        "name": "Ancient Flame Ablaze",
+        "image": "2",
+        "shortName": "Mavuika"
+      },
+      {
+        "name": "Ambrosial Essence",
+        "image": "2",
+        "shortName": "Emilie"
+      }
+    ],
+    "Astral Actuation 1": [
+      {
+        "name": "Astral Actuation",
+        "image": "1",
+        "shortName": "Ineffa"
+      },
+      {
+        "name": "Starry Night's Whispers",
+        "image": "2",
+        "shortName": "Citlali"
+      }
+    ],
+    "Sharktacular Surfari 2": [
+      {
+        "name": "Sharktacular Surfari",
+        "image": "2",
+        "shortName": "Mualani"
+      },
+      {
+        "name": "Piercing Shot's Crimson Wake",
+        "image": "2",
+        "shortName": "Chasca"
+      }
+    ],
+    "Moonsong of the Groves 1": [
+      {
+        "name": "Moonsong of the Groves",
+        "image": "1",
+        "shortName": "Lauma"
+      },
+      {
+        "name": "The Moongrass' Enlightenment",
+        "image": "5",
+        "shortName": "Nahida"
+      }
+    ],
+    "The Lone Light Knocks at Night 1": [
+      {
+        "name": "The Lone Light Knocks at Night",
+        "image": "1",
+        "shortName": "Flins"
+      },
+      {
+        "name": "Discerner of Enigmas",
+        "image": "5",
+        "shortName": "Yelan"
+      }
+    ],
+    "Temptation of the Crimson Sands 1": [
+      {
+        "name": "Temptation of the Crimson Sands",
+        "image": "1",
+        "shortName": "Nefer"
+      },
+      {
+        "name": "Chanson of Many Waters",
+        "image": "4",
+        "shortName": "Furina"
+      }
+    ],
+    "The Hearth's Ashen Shadow 3": [
+      {
+        "name": "The Hearth's Ashen Shadow",
+        "image": "3",
+        "shortName": "Arlecchino"
+      },
+      {
+        "name": "Gentry of Hermitage",
+        "image": "7",
+        "shortName": "Zhongli"
+      }
+    ],
+    "Rubedo, of White Stone Born 1": [
+      {
+        "name": "Rubedo, of White Stone Born",
+        "image": "1",
+        "shortName": "Durin"
+      },
+      {
+        "name": "Ballad in Goblets",
+        "image": "7",
+        "shortName": "Venti"
+      }
+    ],
+    "Cornucopia of Contention 2": [
+      {
+        "name": "Cornucopia of Contention",
+        "image": "2",
+        "shortName": "Varesa"
+      },
+      {
+        "name": "Forgefire's Blessing",
+        "image": "3",
+        "shortName": "Xilonen"
+      }
+    ],
+    "Somnias a Luna 1": [
+      {
+        "name": "Somnias a Luna",
+        "image": "1",
+        "shortName": "Columbina"
+      },
+      {
+        "name": "Astral Actuation",
+        "image": "2",
+        "shortName": "Ineffa"
+      }
+    ],
+    "Harmonious Abundance 1": [
+      {
+        "name": "Harmonious Abundance",
+        "image": "1",
+        "shortName": "Zibai"
+      },
+      {
+        "name": "Decree of the Deeps",
+        "image": "4",
+        "shortName": "Neuvillette"
+      }
+    ],
+    "The Northerly Wind's Song of Triumph 1": [
+      {
+        "name": "The Northerly Wind's Song of Triumph",
+        "image": "1",
+        "shortName": "Varka"
+      },
+      {
+        "name": "The Lone Light Knocks at Night",
+        "image": "2",
+        "shortName": "Flins"
+      }
+    ],
+    "Void Star's Advent 2": [
+      {
+        "name": "Void Star's Advent",
+        "image": "2",
+        "shortName": "Skirk"
+      },
+      {
+        "name": "La Chanson Cerise",
+        "image": "2",
+        "shortName": "Escoffier"
+      }
+    ],
+    "Ya-hoho! Compendium 1": [
+      {
+        "name": "Ya-hoho! Compendium",
+        "image": "1",
+        "shortName": "Linnea"
+      },
+      {
+        "name": "Piercing Shot's Crimson Wake",
+        "image": "3",
+        "shortName": "Chasca"
+      }
+    ],
+    "Moonsong of the Groves 2": [
+      {
+        "name": "Moonsong of the Groves",
+        "image": "2",
+        "shortName": "Lauma"
+      },
+      {
+        "name": "Temptation of the Crimson Sands",
+        "image": "2",
+        "shortName": "Nefer"
+      }
+    ],
+    "Angel's Reverie 1": [
+      {
+        "name": "Angel's Reverie",
+        "image": "1",
+        "shortName": "Nicole"
+      },
+      {
+        "name": "Rubedo, of White Stone Born",
+        "image": "2",
+        "shortName": "Durin"
+      }
+    ],
+    "Frostedge Nocturne 1": [
+      {
+        "name": "Frostedge Nocturne",
+        "image": "1",
+        "shortName": "Lohen"
+      },
+      {
+        "name": "Ancient Flame Ablaze",
+        "image": "3",
+        "shortName": "Mavuika"
+      }
+    ],
+    "To the Looking-Glass the Mademoiselle Said 1": [
+      {
+        "name": "To the Looking-Glass the Mademoiselle Said",
+        "image": "1",
+        "shortName": "Sandrone"
+      },
+      {
+        "name": "Starry Night's Whispers",
+        "image": "3",
+        "shortName": "Sandrone"
+      }
+    ],
+    "Somnias a Luna 2": [
+      {
+        "name": "Somnias a Luna",
+        "image": "2",
+        "shortName": "Columbina"
+      },
+      {
+        "name": "Reign of Serenity",
+        "image": "7",
+        "shortName": "Raiden Shogun"
+      }
+    ],
+    "Swan's Shadow in Silken Ice 1": [
+      {
+        "name": "Swan's Shadow in Silken Ice",
+        "image": "1",
+        "shortName": "Odette"
+      },
+      {
+        "name": "The Hearth's Ashen Shadow",
+        "image": "4",
+        "shortName": "Arlecchino"
+      }
+    ]
+  }
+}
