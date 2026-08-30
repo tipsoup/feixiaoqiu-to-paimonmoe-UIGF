@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# 真实个人抽卡数据：不要提交到仓库
+*.xlsx
+!examples/*.xlsx
+
+# 本地输出
+/output/
+*.log
+
+# PyInstaller
+/dist/
+/build/
+*.spec
+
+# Local build/release artifacts (do not commit)
+/build_env/
+/release/
